@@ -19,9 +19,9 @@ setup(
 
 name="Xray",
 version="0.0.1",
-author="sunny savita",
-author_email="sunny.savita@ineuron.ai",
-install_requires=get_requirements(r"C:\\Users\\sunny\\deeplearningproject\\requirements_dev.txt"),
+author="satyam",
+author_email="satyam.singh.met13@itbhu.ac.in",
+install_requires=get_requirements(r"/Users/satyamsingh/deeplearningproject/requirements_dev.txt"),
 package=find_packages()
 
 )
